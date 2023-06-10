@@ -1,0 +1,7 @@
+plotly
+pandas
+streamlit
+plotly.express
+streamlit_option_menu
+pyspark
+datetime
