@@ -3,8 +3,5 @@ pandas
 streamlit
 plotly.express
 streamlit_option_menu
-pyspark.sql
-pyspark.sql.functions
+pyspark
 datetime
-plotly.graph_objects
-plotly.subplots
