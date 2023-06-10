@@ -5,4 +5,3 @@ plotly.express
 streamlit_option_menu
 pyspark
 datetime
-java
